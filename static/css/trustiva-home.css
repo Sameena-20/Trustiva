@@ -1,0 +1,300 @@
+
+/* =========================================
+   TRUSTIVA HOMEPAGE - HERO SECTION
+========================================= */
+
+.trustiva-home-hero {
+    position: relative;
+    min-height: 760px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 150px 0 90px;
+    background-color: #06356b;
+    transform: translate(-20px, 20px);
+}
+
+.trustiva-home-hero .hero-slide,
+.trustiva-home-hero .hero-slide .img {
+    height: 100%;
+    min-height: 100%;
+}
+
+/* Background slideshow */
+
+.trustiva-home-hero .hero-slide {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+}
+
+.trustiva-home-hero .hero-slide .img {
+    background-size: cover;
+    background-position: center;
+}
+
+/* Dark overlay for readability */
+
+.trustiva-home-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        90deg,
+        rgba(3, 27, 55, 0.55) 0%,
+        rgba(3, 35, 69, 0.35) 48%,
+        rgba(3, 35, 69, 0.20) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* Hero container */
+
+.trustiva-home-hero .trustiva-hero-container {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+
+.trustiva-hero-content {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    align-items: center;
+    gap: 65px;
+}
+
+/* Left side content */
+
+.trustiva-hero-text {
+    max-width: 600px;
+    color: #ffffff;
+}
+
+.trustiva-hero-label {
+    display: inline-block;
+    margin-bottom: 22px;
+    color: #edb13b;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.trustiva-hero-text h1 {
+    color: #ffffff;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: clamp(38px, 5vw, 62px);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 25px;
+}
+
+.trustiva-hero-text h1 span {
+    color: #edb13b;
+}
+
+.trustiva-hero-text p {
+    max-width: 520px;
+    color: rgba(255, 255, 255, 0.88);
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+
+/* Property search card */
+
+.trustiva-search-card {
+    width: 100%;
+    max-width: 520px;
+    justify-self: end;
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.22);
+}
+
+.trustiva-search-card h3 {
+    color: #06356b;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 9px;
+}
+
+.trustiva-search-subtitle {
+    color: #59708a;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* Buy and Rent tabs */
+
+.trustiva-search-card .search-tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #dbe2e9;
+}
+
+.trustiva-search-card .search-tabs .tab {
+    position: relative;
+    flex: 1;
+    padding: 12px 15px;
+    border: none;
+    border-bottom: 3px solid transparent;
+    background: transparent;
+    color: #59708a;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.trustiva-search-card .search-tabs .tab:hover {
+    color: #06356b;
+}
+
+.trustiva-search-card .search-tabs .tab.active {
+    color: #06356b;
+    border-bottom-color: #d49a22;
+}
+
+/* Search fields */
+
+.trustiva-quick-search {
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+}
+
+.trustiva-search-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-width: 0;
+}
+
+.trustiva-search-field label {
+    color: #0b315e;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.trustiva-search-field input,
+.trustiva-search-field select {
+    width: 100%;
+    min-height: 48px;
+    padding: 11px 13px;
+    border: 1px solid #dbe2e9;
+    border-radius: 5px;
+    outline: none;
+    background-color: #ffffff;
+    color: #0b315e;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    transition: border-color 0.2s ease;
+}
+
+.trustiva-search-field input:focus,
+.trustiva-search-field select:focus {
+    border-color: #d49a22;
+    box-shadow: 0 0 0 3px rgba(212, 154, 34, 0.12);
+}
+
+.trustiva-search-field input::placeholder {
+    color: #9aa8b6;
+}
+
+/* Minimum and maximum price */
+
+.trustiva-price-fields {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 13px;
+}
+
+/* Search button */
+
+.trustiva-search-button {
+    width: 100%;
+    min-height: 52px;
+    margin-top: 5px;
+    padding: 13px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #d49a22;
+    color: #ffffff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.25s ease, transform 0.25s ease;
+}
+
+.trustiva-search-button:hover {
+    background: #b98216;
+    transform: translateY(-2px);
+}
+
+/* =========================================
+   RESPONSIVE DESIGN
+========================================= */
+
+@media (max-width: 991px) {
+
+    .trustiva-home-hero {
+        min-height: auto;
+        padding: 80px 0;
+    }
+
+    .trustiva-hero-content {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .trustiva-hero-text {
+        max-width: 700px;
+    }
+
+    .trustiva-search-card {
+        justify-self: start;
+        max-width: 600px;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .trustiva-home-hero {
+        padding: 65px 0;
+    }
+
+    .trustiva-hero-content {
+        gap: 30px;
+    }
+
+    .trustiva-hero-text h1 {
+        font-size: 36px;
+    }
+
+    .trustiva-hero-text p {
+        font-size: 15px;
+    }
+
+    .trustiva-hero-label {
+        font-size: 11px;
+        letter-spacing: 1.5px;
+    }
+
+    .trustiva-search-card {
+        padding: 25px 20px;
+    }
+
+    .trustiva-search-card h3 {
+        font-size: 22px;
+    }
+
+    .trustiva-price-fields {
+        grid-template-columns: 1fr;
+    }
+}

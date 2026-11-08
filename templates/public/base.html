@@ -1,0 +1,238 @@
+{% load static i18n %}
+{% get_current_language as CURRENT_LANGUAGE %}
+{% get_current_language_bidi as LANGUAGE_BIDI %}
+
+<!DOCTYPE html>
+<html lang="{{ CURRENT_LANGUAGE }}" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Untree.co" />
+    <link rel="shortcut icon" href="{% static 'images/trustiva_logo.png' %}" />
+
+    <meta name="description" content="" />
+    <meta name="keywords" content="bootstrap, bootstrap5" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{% static 'fonts/icomoon/style.css' %}" />
+    <link rel="stylesheet" href="{% static 'fonts/flaticon/font/flaticon.css' %}" />
+
+    <link rel="stylesheet" href="{% static 'css/tiny-slider.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/aos.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/custom-login.css' %}">
+    <!-- Trustiva Homepage Design -->
+    <link rel="stylesheet" href="{% static 'css/trustiva-home.css' %}">
+    
+
+
+    <title>{% block title %}{% endblock %}</title>
+  </head>
+  <body>
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close">
+          <span class="icofont-close js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+    <nav class="site-nav">
+      <div class="container">
+        <div class="menu-bg-wrap">
+          <div class="site-navigation">
+            <a class="navbar-brand py-0 my-auto" href="{% url 'index' %}">
+                <div style="background-color: #ffffff; padding: 6px 12px; border-radius: 6px; display: inline-flex; align-items: center;">
+                    <img src="{% static 'images/trustiva_logo.png' %}"
+                      alt="Trustiva Logo"
+                      width="210"
+                      style="height: 55px; object-fit: contain;">
+                </div>
+            </a>
+            <ul
+              class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end"
+            >
+              <li class="active"><a href="{% url 'index' %}">{% trans "Home" %}</a></li>
+              <!-- <li class="has-children"> -->
+              <li>
+                <a href="{% url 'properties' %}">{% trans "Properties" %}</a>
+                <!-- <ul class="dropdown">
+                  <li><a href="#">Buy Property</a></li>
+                  <li><a href="#">Sell Property</a></li>
+                  <li class="has-children">
+                    <a href="#">Dropdown</a>
+                    <ul class="dropdown">
+                      <li><a href="#">Sub Menu One</a></li>
+                      <li><a href="#">Sub Menu Two</a></li>
+                      <li><a href="#">Sub Menu Three</a></li>
+                    </ul>
+                  </li>
+                </ul> -->
+              </li>
+              <li><a href="{% url 'services' %}">{% trans "Services" %}</a></li>
+              <li><a href="{% url 'about' %}">{% trans "About" %}</a></li>
+              <li><a href="{% url 'contact' %}">{% trans "Contact Us" %}</a></li>
+              <li class="has-children">
+                <a href="#" aria-label="Select language">
+                  <i class="bi bi-translate"></i>
+                  {% if CURRENT_LANGUAGE == 'ar' %}العربية
+                  {% elif CURRENT_LANGUAGE == 'hi' %}हिन्दी
+                  {% elif CURRENT_LANGUAGE == 'ru' %}Русский
+                  {% else %}English{% endif %}
+                </a>
+
+                <ul class="dropdown">
+                  {% get_available_languages as LANGUAGES %}
+                  {% for language_code, language_name in LANGUAGES %}
+                    <li>
+                      <form action="{% url 'set_language' %}" method="post">
+                        {% csrf_token %}
+                        <input type="hidden" name="language" value="{{ language_code }}">
+                        <input type="hidden" name="next" value="{{ request.get_full_path }}">
+                        <button type="submit"
+                                style="background:none;border:none;padding:8px 15px;width:100%;text-align:start;">
+                          {{ language_name }}
+                        </button>
+                      </form>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+
+                <li>
+                    <a href="{% url 'login' %}" class="btn btn-primary py-2 px-3">
+                        {% trans "Login" %}
+                    </a>
+                </li>            
+              </ul>
+
+            <a
+              href="#"
+              class="burger light me-auto float-end mt-1 site-menu-toggle js-menu-toggle d-inline-block d-lg-none"
+              data-toggle="collapse"
+              data-target="#main-navbar"
+            >
+              <span></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+{% block content %}{% endblock %}
+    
+    <div class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="widget">
+              <h3>{% trans "Contact" %}</h3>
+              <address>{% trans "ICAD 3, Mussafah, Abu Dhabi, UAE" %}</address>
+              <ul class="list-unstyled links">
+                <li><a href="tel://971555272909">+971(55)-527-2909</a></li>
+                <li><a href="tel://971555272909">+971(55)-527-2909</a></li>
+                <li>
+                  <a href="mailto:info@goldenvision.com">info@goldenvision.com</a>
+                </li>
+              </ul>
+            </div>
+            <!-- /.widget -->
+          </div>
+          <!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <div class="widget">
+              <h3>{% trans "Sources" %}</h3>
+              <ul class="list-unstyled float-start links">
+                <li><a href="{% url 'about' %}">{% trans "About Us" %}</a></li>
+                <li><a href="{% url 'careers' %}">{% trans "Careers" %}</a></li>
+                <li><a href="{% url 'services' %}">{% trans "Services" %}</a></li>
+                <li><a href="{% url 'properties' %}">{% trans "Properties" %}</a></li>
+                <li><a href="{% url 'contact' %}">{% trans "Contact Us" %}</a></li>
+              </ul>
+            </div>
+            <!-- /.widget -->
+          </div>
+          <!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <div class="widget">
+              <h3>{% trans "Follow Us" %}</h3>
+              <p class="mb-0">
+                {% trans "Follow us on our social media platforms to stay updated with the latest news, offers, and property listings. Connect with us and be part of our growing community!" %}
+              </p>
+              <ul class="list-unstyled social">
+                <li>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-facebook"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-linkedin"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-pinterest"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-dribbble"></span></a>
+                </li>
+              </ul>
+            </div>
+            <!-- /.widget -->
+          </div>
+          <!-- /.col-lg-4 -->
+        </div>
+        <!-- /.row -->
+
+        <div class="row mt-5">
+          <div class="col-12 text-center">
+            <!-- 
+              **==========
+              NOTE: 
+              Please don't remove this copyright link unless you buy the license here https://untree.co/license/  
+              **==========
+            -->
+
+            <p>
+              Copyright &copy;
+              <script>
+                document.write(new Date().getFullYear());
+              </script>
+               {% trans "Trustiva. All rights reserved. All rights reserved." %}</p>
+            
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </div>
+    <!-- /.site-footer -->
+
+    <!-- Preloader -->
+    <div id="overlayer"></div>
+    <div class="loader">
+      <div class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+
+    <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <script src="{% static 'js/tiny-slider.js' %}"></script>
+    <script src="{% static 'js/aos.js' %}"></script>
+    <script src="{% static 'js/navbar.js' %}"></script>
+    <script src="{% static 'js/counter.js' %}"></script>
+    <script src="{% static 'js/custom.js' %}"></script>
+    <script src="{% static 'js/trustiva-home.js' %}"></script>
+  </body>
+</html>

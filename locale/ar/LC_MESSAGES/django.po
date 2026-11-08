@@ -1,0 +1,2691 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-08 21:28+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\templates\public\about.html:6 .\templates\public\about.html:44
+#: .\templates\public\base.html:156
+msgid "About Us"
+msgstr "من نحن"
+
+#: .\templates\public\about.html:18 .\templates\public\about.html:31
+#: .\templates\public\base.html:83
+msgid "About"
+msgstr "من نحن"
+
+#: .\templates\public\about.html:26 .\templates\public\base.html:65
+#: .\templates\public\contact.html:27 .\templates\public\login.html:25
+#: .\templates\public\new_password.html:25
+#: .\templates\public\password_reset.html:25
+#: .\templates\public\properties.html:19
+#: .\templates\public\property_details.html:21
+#: .\templates\public\send_property_inquiry.html:27
+#: .\templates\public\services.html:23 .\templates\public\verify_otp.html:25
+msgid "Home"
+msgstr "الرئيسية"
+
+#: .\templates\public\about.html:48
+msgid ""
+"Trustiva is a trusted real estate company based in Abu Dhabi, dedicated to "
+"helping individuals, families, and investors find the right property "
+"solutions across the UAE."
+msgstr ""
+"تراستيفا شركة عقارية موثوقة مقرها أبوظبي، وتكرّس جهودها لمساعدة الأفراد "
+"والعائلات والمستثمرين في العثور على الحلول العقارية المناسبة في جميع أنحاء "
+"دولة الإمارات العربية المتحدة."
+
+#: .\templates\public\about.html:51
+msgid ""
+"With years of experience in the real estate industry, we specialize\n"
+"              in residential, commercial, and investment properties. Our "
+"team is\n"
+"              committed to delivering professional guidance, market "
+"expertise,\n"
+"              and personalized service throughout every stage of the "
+"property journey."
+msgstr ""
+"بفضل سنوات خبرتنا في القطاع العقاري، نتخصص في العقارات السكنية والتجارية "
+"والاستثمارية. ويلتزم فريقنا بتقديم الإرشاد المهني والخبرة الواسعة بالسوق "
+"والخدمات الشخصية في جميع مراحل الرحلة العقارية."
+
+#: .\templates\public\about.html:57
+msgid ""
+"At Trustiva, we understand that every client has unique goals and\n"
+"              expectations. That is why we take a personalized approach to "
+"every\n"
+"              transaction, ensuring that each recommendation aligns with our "
+"clients'\n"
+"              lifestyle, business objectives, and investment plans."
+msgstr ""
+"في جولدن فيجن، ندرك أن لكل عميل أهدافاً وتوقعات خاصة. لذلك نتبع نهجاً شخصياً في "
+"كل معاملة، ونحرص على أن تتوافق توصياتنا مع أسلوب حياة عملائنا وأهدافهم "
+"التجارية وخططهم الاستثمارية."
+
+#: .\templates\public\about.html:65
+#| msgid ""
+#| "Whether you are purchasing your first home, expanding your investment\n"
+#| "              portfolio, or searching for commercial opportunities, "
+#| "Golden Vision\n"
+#| "              provides reliable support and transparent advice tailored "
+#| "to your goals."
+msgid ""
+"Whether you are purchasing your first home, expanding your investment\n"
+"              portfolio, or searching for commercial opportunities, "
+"Trustiva\n"
+"              provides reliable support and transparent advice tailored to "
+"your goals."
+msgstr ""
+"سواء كنتم تشترون منزلكم الأول، أو توسعون محفظتكم الاستثمارية، أو تبحثون عن "
+"فرص تجارية، تقدم لكم جولدن فيجن دعماً موثوقاً ونصائح شفافة تتناسب مع أهدافكم."
+
+#: .\templates\public\about.html:70
+msgid ""
+"Our mission is to build long-term relationships through trust,\n"
+"              integrity, and exceptional customer service while helping "
+"clients\n"
+"              make confident real estate decisions."
+msgstr ""
+"تتمثل رسالتنا في بناء علاقات طويلة الأمد قائمة على الثقة والنزاهة وخدمة "
+"العملاء المتميزة، مع مساعدة عملائنا على اتخاذ قرارات عقارية بثقة."
+
+#: .\templates\public\about.html:75
+msgid ""
+"Backed by local market knowledge and a commitment to excellence, we\n"
+"              continuously strive to deliver outstanding results while "
+"maintaining the\n"
+"              highest standards of professionalism, transparency, and "
+"customer\n"
+"              satisfaction."
+msgstr ""
+"انطلاقاً من معرفتنا بالسوق المحلي والتزامنا بالتميز، نسعى باستمرار إلى تحقيق "
+"نتائج استثنائية مع الحفاظ على أعلى معايير الاحترافية والشفافية ورضا العملاء."
+
+#: .\templates\public\about.html:99
+msgid "Trusted Property Solutions"
+msgstr "حلول عقارية موثوقة"
+
+#: .\templates\public\about.html:101
+msgid ""
+"We offer carefully selected residential, commercial, and investment "
+"properties that meet the highest standards of quality and value."
+msgstr ""
+"نقدم مجموعة مختارة بعناية من العقارات السكنية والتجارية والاستثمارية، والتي "
+"تلبي أعلى معايير الجودة والقيمة."
+
+#: .\templates\public\about.html:111
+msgid "Experienced Professionals"
+msgstr "خبراء متخصصون ذوو خبرة"
+
+#: .\templates\public\about.html:113
+msgid ""
+"Our knowledgeable real estate consultants provide personalized guidance, "
+"helping clients make informed decisions with confidence."
+msgstr ""
+"يقدم مستشارونا العقاريون ذوو الخبرة إرشادات مخصصة تساعد العملاء على اتخاذ "
+"قرارات مدروسة بكل ثقة."
+
+#: .\templates\public\about.html:123
+msgid "Transparent & Secure"
+msgstr "الشفافية والأمان"
+
+#: .\templates\public\about.html:125
+msgid ""
+"We believe in honest communication, ethical business practices, and a "
+"seamless property experience from inquiry to completion."
+msgstr ""
+"نؤمن بالتواصل الصادق والممارسات التجارية الأخلاقية، ونسعى إلى توفير تجربة "
+"عقارية سلسة من مرحلة الاستفسار وحتى إتمام المعاملة."
+
+#: .\templates\public\about.html:148
+msgid "Personalized Service"
+msgstr "خدمة مخصصة"
+
+#: .\templates\public\about.html:150
+msgid ""
+"Every client receives dedicated attention and tailored recommendations based "
+"on their unique property needs, goals, and budget."
+msgstr ""
+"يحظى كل عميل باهتمام خاص وتوصيات مصممة وفقاً لاحتياجاته العقارية وأهدافه "
+"وميزانيته."
+
+#: .\templates\public\about.html:160
+msgid "Market Knowledge"
+msgstr "معرفة واسعة بالسوق"
+
+#: .\templates\public\about.html:162
+msgid ""
+"Our team stays informed about the latest market trends and opportunities, "
+"helping clients make confident and informed real estate decisions."
+msgstr ""
+"يحرص فريقنا على متابعة أحدث اتجاهات السوق والفرص المتاحة، لمساعدة العملاء "
+"على اتخاذ قرارات عقارية مدروسة وواثقة."
+
+#: .\templates\public\about.html:172
+msgid "Long-Term Relationships"
+msgstr "علاقات طويلة الأمد"
+
+#: .\templates\public\about.html:174
+msgid ""
+"We focus on building lasting relationships through trust, transparency, and "
+"exceptional customer service before, during, and after every transaction."
+msgstr ""
+"نركز على بناء علاقات مستدامة قائمة على الثقة والشفافية وخدمة العملاء "
+"المتميزة، قبل كل معاملة وأثناءها وبعد إتمامها."
+
+#: .\templates\public\about.html:186
+msgid "Building Trust Through Real Estate Excellence"
+msgstr "نبني الثقة من خلال التميز في القطاع العقاري"
+
+#: .\templates\public\about.html:189
+msgid ""
+"From residential homes to commercial investments, Trustiva continues to help "
+"clients discover exceptional property opportunities across Abu Dhabi and the "
+"UAE."
+msgstr ""
+"من المنازل السكنية إلى الاستثمارات التجارية، تواصل جولدن فيجن مساعدة العملاء "
+"على اكتشاف فرص عقارية متميزة في أبوظبي وجميع أنحاء دولة الإمارات العربية "
+"المتحدة."
+
+#: .\templates\public\about.html:217
+msgid "Successful Transactions"
+msgstr "معاملات ناجحة"
+
+#: .\templates\public\about.html:229
+msgid "Properties Managed"
+msgstr "عقارات تتم إدارتها"
+
+#: .\templates\public\about.html:241 .\templates\public\index.html:598
+msgid "Satisfied Clients"
+msgstr "عملاء راضون"
+
+#: .\templates\public\about.html:253 .\templates\public\index.html:610
+msgid "Years of Experience"
+msgstr "سنوات من الخبرة"
+
+#: .\templates\public\about.html:265
+msgid "Our Vision & Mission"
+msgstr "رؤيتنا ورسالتنا"
+
+#: .\templates\public\about.html:269
+msgid ""
+"Our vision is to become one of the most trusted real estate companies in Abu "
+"Dhabi by delivering exceptional service, professional expertise, and long-"
+"term value to our clients."
+msgstr ""
+"تتمثل رؤيتنا في أن نصبح إحدى أكثر الشركات العقارية موثوقية في أبوظبي، من "
+"خلال تقديم خدمات استثنائية وخبرات مهنية وقيمة مستدامة لعملائنا."
+
+#: .\templates\public\about.html:273
+msgid ""
+"Our mission is to simplify the property journey by connecting\n"
+"                      buyers, sellers, investors, and businesses with "
+"opportunities\n"
+"                      that match their goals while maintaining the highest "
+"standards\n"
+"                      of integrity, transparency, and customer satisfaction."
+msgstr ""
+"تتمثل رسالتنا في تسهيل الرحلة العقارية من خلال ربط المشترين والبائعين "
+"والمستثمرين والشركات بالفرص التي تتوافق مع أهدافهم، مع الالتزام بأعلى معايير "
+"النزاهة والشفافية ورضا العملاء."
+
+#: .\templates\public\base.html:68 .\templates\public\base.html:159
+#: .\templates\public\properties.html:7 .\templates\public\properties.html:15
+#: .\templates\public\properties.html:21
+#: .\templates\public\property_details.html:22
+msgid "Properties"
+msgstr "العقارات"
+
+#: .\templates\public\base.html:82 .\templates\public\base.html:158
+#: .\templates\public\services.html:28
+msgid "Services"
+msgstr "الخدمات"
+
+#: .\templates\public\base.html:84 .\templates\public\base.html:160
+#: .\templates\public\contact.html:7 .\templates\public\contact.html:19
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: .\templates\public\base.html:114 .\templates\public\login.html:6
+#: .\templates\public\login.html:17 .\templates\public\login.html:30
+#: .\templates\public\login.html:45 .\templates\public\login.html:68
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: .\templates\public\base.html:139 .\templates\public\contact.html:32
+msgid "Contact"
+msgstr "اتصال"
+
+#: .\templates\public\base.html:140
+msgid "ICAD 3, Mussafah, Abu Dhabi, UAE"
+msgstr "آيكاد 3، مصفح، أبوظبي، الإمارات العربية المتحدة"
+
+#: .\templates\public\base.html:154
+msgid "Sources"
+msgstr "المصادر"
+
+#: .\templates\public\base.html:157 .\templates\public\careers.html:5
+msgid "Careers"
+msgstr "الوظائف"
+
+#: .\templates\public\base.html:168
+msgid "Follow Us"
+msgstr "تابعونا"
+
+#: .\templates\public\base.html:170
+msgid ""
+"Follow us on our social media platforms to stay updated with the latest "
+"news, offers, and property listings. Connect with us and be part of our "
+"growing community!"
+msgstr ""
+"تابعونا على منصات التواصل الاجتماعي للبقاء على اطلاع بأحدث الأخبار والعروض "
+"والعقارات المعروضة. تواصلوا معنا وكونوا جزءًا من مجتمعنا المتنامي!"
+
+#: .\templates\public\base.html:213
+msgid "Trustiva. All rights reserved. All rights reserved."
+msgstr "غولدن فيجن. جميع الحقوق محفوظة. جميع الحقوق محفوظة."
+
+#: .\templates\public\careers.html:18
+msgid "YOUR FUTURE STARTS HERE"
+msgstr "مستقبلك يبدأ من هنا"
+
+#: .\templates\public\careers.html:19
+msgid "Grow with Trustiva"
+msgstr "انمُ مع جولدن فيجن"
+
+#: .\templates\public\careers.html:21
+msgid ""
+"Be part of a team that believes in people, possibilities,\n"
+"                and creating exceptional experiences."
+msgstr ""
+"كن جزءًا من فريق يؤمن بالإنسان والإمكانات،\n"
+"                ويسعى إلى تقديم تجارب استثنائية."
+
+#: .\templates\public\careers.html:26
+msgid "Discover Life at Trustiva"
+msgstr "اكتشف الحياة في جولدن فيجن"
+
+#: .\templates\public\careers.html:41
+msgid "OUR PEOPLE, OUR STRENGTH"
+msgstr "موظفونا هم مصدر قوتنا"
+
+#: .\templates\public\careers.html:45
+msgid "More Than a Workplace"
+msgstr "أكثر من مجرد مكان للعمل"
+
+#: .\templates\public\careers.html:49
+msgid ""
+"At Trustiva, people are at the heart of everything\n"
+"                    we do. Every successful property journey begins with\n"
+"                    individuals who listen, understand, collaborate, and\n"
+"                    care about the people they serve."
+msgstr ""
+"في جولدن فيجن، يُعد الإنسان محور كل ما نقوم به.\n"
+"                    تبدأ كل رحلة عقارية ناجحة بأفراد يستمعون ويفهمون "
+"ويتعاونون،\n"
+"                    ويهتمون بالأشخاص الذين يقدمون لهم خدماتهم."
+
+#: .\templates\public\careers.html:56
+msgid ""
+"We value different perspectives, encourage the sharing\n"
+"                    of ideas, and believe that every team member can make\n"
+"                    a meaningful contribution. We aim to create an\n"
+"                    environment where people can build their skills,\n"
+"                    take on new challenges, and work towards their\n"
+"                    professional goals."
+msgstr ""
+"نقدّر وجهات النظر المختلفة، ونشجع تبادل الأفكار،\n"
+"                    ونؤمن بأن كل عضو في الفريق قادر على تقديم مساهمة قيّمة.\n"
+"                    ونسعى إلى توفير بيئة تتيح للأفراد تطوير مهاراتهم،\n"
+"                    وخوض تحديات جديدة، والعمل نحو تحقيق أهدافهم المهنية."
+
+#: .\templates\public\careers.html:65
+msgid ""
+"Whether working with customers, supporting daily\n"
+"                    operations, or developing new ideas, every contribution\n"
+"                    helps shape the Trustiva experience."
+msgstr ""
+"سواء من خلال التعامل مع العملاء، أو دعم العمليات اليومية،\n"
+"                    أو تطوير أفكار جديدة، فإن كل مساهمة تساعد في تشكيل\n"
+"                    تجربة جولدن فيجن."
+
+#: .\templates\public\careers.html:84
+msgid "Slide 1"
+msgstr "الشريحة 1"
+
+#: .\templates\public\careers.html:89
+msgid "Slide 2"
+msgstr "الشريحة 2"
+
+#: .\templates\public\careers.html:94
+msgid "Slide 3"
+msgstr "الشريحة 3"
+
+#: .\templates\public\careers.html:102
+msgid "Professionals collaborating at work"
+msgstr "متخصصون يتعاونون في بيئة العمل"
+
+#: .\templates\public\careers.html:104
+msgid "Working Together"
+msgstr "نعمل معًا"
+
+#: .\templates\public\careers.html:105
+msgid "Great experiences begin with great teamwork."
+msgstr "التجارب المميزة تبدأ بروح الفريق المتميزة."
+
+#: .\templates\public\careers.html:112
+msgid "Real estate professionals meeting"
+msgstr "اجتماع متخصصين في العقارات"
+
+#: .\templates\public\careers.html:114
+msgid "Sharing Ideas"
+msgstr "نتشارك الأفكار"
+
+#: .\templates\public\careers.html:115
+msgid "Different perspectives help us grow."
+msgstr "تساعدنا وجهات النظر المختلفة على التطور."
+
+#: .\templates\public\careers.html:122
+msgid "Professionals working towards shared goals"
+msgstr "متخصصون يعملون لتحقيق أهداف مشتركة"
+
+#: .\templates\public\careers.html:124
+msgid "Growing Together"
+msgstr "ننمو معًا"
+
+#: .\templates\public\careers.html:125
+msgid "Every contribution matters."
+msgstr "كل مساهمة لها قيمتها."
+
+#: .\templates\public\careers.html:137
+msgid "Previous"
+msgstr "السابق"
+
+#: .\templates\public\careers.html:146 .\templates\public\index.html:291
+#: .\templates\public\index.html:394 .\templates\public\properties.html:98
+msgid "Next"
+msgstr "التالي"
+
+#: .\templates\public\careers.html:165
+msgid "GROW WITH US"
+msgstr "تطوّر معنا"
+
+#: .\templates\public\careers.html:169
+msgid "Opportunities to Learn and Grow"
+msgstr "فرص للتعلم والتطور"
+
+#: .\templates\public\careers.html:173
+msgid ""
+"A meaningful career is built through learning,\n"
+"                    collaboration, and the opportunity to take on new\n"
+"                    challenges. We believe in creating an environment\n"
+"                    that encourages professional development."
+msgstr ""
+"تُبنى المسيرة المهنية الناجحة من خلال التعلم،\n"
+"                    والتعاون، وإتاحة الفرصة لخوض تحديات جديدة.\n"
+"                    ونؤمن بأهمية توفير بيئة تشجع على التطور المهني."
+
+#: .\templates\public\careers.html:190
+msgid "Professional Development"
+msgstr "التطوير المهني"
+
+#: .\templates\public\careers.html:193
+msgid ""
+"Build your knowledge, strengthen your abilities,\n"
+"                        and continue developing skills relevant to your\n"
+"                        role and career ambitions."
+msgstr ""
+"وسّع معرفتك، وعزّز قدراتك،\n"
+"                        وواصل تطوير المهارات التي تتناسب مع دورك\n"
+"                        وطموحاتك المهنية."
+
+#: .\templates\public\careers.html:206
+msgid "Teamwork and Collaboration"
+msgstr "العمل الجماعي والتعاون"
+
+#: .\templates\public\careers.html:209
+msgid ""
+"Exchange ideas, learn from others, and contribute\n"
+"                        to shared goals through effective communication\n"
+"                        and collaboration."
+msgstr ""
+"تبادل الأفكار، وتعلّم من الآخرين، وساهم\n"
+"                        في تحقيق الأهداف المشتركة من خلال التواصل الفعّال\n"
+"                        والتعاون."
+
+#: .\templates\public\careers.html:222
+msgid "New Challenges"
+msgstr "تحديات جديدة"
+
+#: .\templates\public\careers.html:225
+msgid ""
+"Explore opportunities to take initiative, solve\n"
+"                        problems, share ideas, and broaden your\n"
+"                        professional experience."
+msgstr ""
+"استكشف فرص المبادرة، وحل المشكلات،\n"
+"                        ومشاركة الأفكار، وتوسيع نطاق\n"
+"                        خبراتك المهنية."
+
+#: .\templates\public\careers.html:238
+msgid "Individual Contribution"
+msgstr "المساهمة الفردية"
+
+#: .\templates\public\careers.html:241
+msgid ""
+"Bring your strengths and ideas to the workplace\n"
+"                        and play a meaningful role in delivering\n"
+"                        excellent customer experiences."
+msgstr ""
+"قدّم نقاط قوتك وأفكارك في بيئة العمل،\n"
+"                        وكن جزءًا فاعلًا في تقديم\n"
+"                        تجارب متميزة للعملاء."
+
+#: .\templates\public\careers.html:254
+msgid "Professional Excellence"
+msgstr "التميز المهني"
+
+#: .\templates\public\careers.html:257
+msgid ""
+"Develop a responsible, customer-focused approach\n"
+"                        and work towards high standards of quality\n"
+"                        and professionalism."
+msgstr ""
+"طوّر نهجًا مسؤولًا يركز على العملاء،\n"
+"                        واعمل على تحقيق أعلى معايير الجودة\n"
+"                        والاحترافية."
+
+#: .\templates\public\careers.html:270
+msgid "Career Possibilities"
+msgstr "الفرص المهنية"
+
+#: .\templates\public\careers.html:273
+msgid ""
+"Explore different areas of the real estate\n"
+"                        business and discover how your skills may\n"
+"                        contribute to future opportunities."
+msgstr ""
+"استكشف مجالات مختلفة في قطاع العقارات،\n"
+"                        واكتشف كيف يمكن لمهاراتك أن تساهم\n"
+"                        في خلق فرص مستقبلية."
+
+#: .\templates\public\careers.html:283
+msgid ""
+"Professional development and employment benefits depend on\n"
+"            the role and the opportunities available."
+msgstr ""
+"يعتمد التطوير المهني ومزايا التوظيف على\n"
+"            طبيعة الوظيفة والفرص المتاحة."
+
+#: .\templates\public\careers.html:299
+msgid "YOUR NEXT CHAPTER"
+msgstr "فصلك القادم"
+
+#: .\templates\public\careers.html:302
+msgid "Ready to Join Trustiva?"
+msgstr "هل أنت مستعد للانضمام إلى جولدن فيجن؟"
+
+#: .\templates\public\careers.html:305
+msgid ""
+"We would love to hear from individuals who are\n"
+"                    passionate about their work and interested in\n"
+"                    contributing to our journey. Send us your CV and\n"
+"                    tell us a little about yourself, your experience,\n"
+"                    and the kind of opportunity you are looking for."
+msgstr ""
+"يسعدنا التواصل مع الأشخاص الشغوفين بعملهم،\n"
+"                    والراغبين في المساهمة في مسيرتنا.\n"
+"                    أرسل إلينا سيرتك الذاتية، وعرّفنا بنفسك وبخبراتك،\n"
+"                    وبنوع الفرصة التي تبحث عنها."
+
+#: .\templates\public\careers.html:315
+msgid "Send Your CV"
+msgstr "أرسل سيرتك الذاتية"
+
+#: .\templates\public\contact.html:52 .\templates\public\index.html:106
+#: .\templates\public\properties.html:117
+msgid "Location"
+msgstr "الموقع"
+
+#: .\templates\public\contact.html:61
+msgid "Open Hours"
+msgstr "ساعات العمل"
+
+#: .\templates\public\contact.html:70 .\templates\public\password_reset.html:53
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: .\templates\public\contact.html:76
+msgid "Call"
+msgstr "اتصل بنا"
+
+#: .\templates\public\contact.html:94
+#: .\templates\public\send_property_inquiry.html:71
+msgid "Your Full Name"
+msgstr "اسمك الكامل"
+
+#: .\templates\public\contact.html:102
+#: .\templates\public\send_property_inquiry.html:79
+msgid "Your Email"
+msgstr "بريدك الإلكتروني"
+
+#: .\templates\public\contact.html:121
+#: .\templates\public\send_property_inquiry.html:98
+msgid "Tell us how we can help..."
+msgstr "أخبرنا كيف يمكننا مساعدتك..."
+
+#: .\templates\public\contact.html:128
+#: .\templates\public\send_property_inquiry.html:105
+msgid "Send Message"
+msgstr "إرسال رسالة"
+
+#: .\templates\public\contact.html:144
+msgid "Visit Our Office"
+msgstr "تفضلوا بزيارة مكتبنا"
+
+#: .\templates\public\contact.html:148
+msgid ""
+"Conveniently located in ICAD 3, Mussafah, Abu Dhabi.\n"
+"          We welcome clients looking for residential, commercial,\n"
+"          and investment property solutions."
+msgstr ""
+"يقع مكتبنا في موقع مناسب في ICAD 3، مصفح، أبوظبي.\n"
+"          نرحب بالعملاء الباحثين عن حلول عقارية سكنية وتجارية واستثمارية."
+
+#: .\templates\public\index.html:39
+
+#| msgid "YOUR FUTURE STARTS HERE"
+msgid "YOUR TRUSTED REAL ESTATE PARTNER"
+msgstr "مستقبلك يبدأ من هنا"
+
+#: .\templates\public\index.html:43
+msgid "Find the place where your future begins"
+msgstr "اعثر على المكان الذي تبدأ فيه مستقبلك"
+
+#: .\templates\public\index.html:48
+
+#| msgid ""
+#| "Discover luxury villas • Modern apartments • Premium commercial properties"
+msgid ""
+"Discover luxury villas, modern apartments and premium commercial properties "
+"across the UAE."
+msgstr "اكتشف الفلل الفاخرة • الشقق العصرية • العقارات التجارية المتميزة"
+
+#: .\templates\public\index.html:55
+#| msgid "Ready to Find Your Perfect Property?"
+msgid "Find Your Property"
+msgstr "هل أنت مستعد للعثور على العقار المثالي لك؟"
+
+#: .\templates\public\index.html:58
+msgid "Discover properties that match your lifestyle."
+msgstr "اكتشف العقارات التي تناسب أسلوب حياتك."
+
+#: .\templates\public\index.html:69
+msgid "Buy"
+msgstr "شراء"
+
+#: .\templates\public\index.html:75
+msgid "Rent"
+msgstr "إيجار"
+
+#: .\templates\public\index.html:87
+#| msgid "Property Sales"
+msgid "Property Type"
+msgstr "بيع العقارات"
+
+#: .\templates\public\index.html:92 .\templates\public\properties.html:131
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: .\templates\public\index.html:112
+#| msgid "Enter area or location"
+msgid "Enter a location"
+msgstr "أدخل المنطقة أو الموقع"
+
+#: .\templates\public\index.html:120 .\templates\public\properties.html:151
+msgid "Minimum Price (AED)"
+msgstr "الحد الأدنى للسعر (درهم إماراتي)"
+
+#: .\templates\public\index.html:127
+msgid "Min price"
+msgstr "أقل سعر"
+
+#: .\templates\public\index.html:132 .\templates\public\properties.html:165
+msgid "Maximum Price (AED)"
+msgstr "الحد الأقصى للسعر (درهم إماراتي)"
+
+#: .\templates\public\index.html:139
+msgid "Max price"
+msgstr "أقصى سعر"
+
+#: .\templates\public\index.html:146 .\templates\public\properties.html:207
+msgid "Search Properties"
+msgstr "البحث عن العقارات"
+
+#: .\templates\public\index.html:162
+msgid "Welcome to Trustiva"
+msgstr "مرحبًا بكم في جولدن فيجن"
+
+#: .\templates\public\index.html:166
+msgid ""
+"Trustiva is a trusted Abu Dhabi real estate company dedicated to helping "
+"clients find exceptional residential and commercial properties across the "
+"UAE."
+msgstr ""
+"جولدن فيجن هي شركة عقارية موثوقة في أبوظبي، متخصصة في مساعدة العملاء على "
+"العثور على عقارات سكنية وتجارية متميزة في جميع أنحاء دولة الإمارات العربية "
+"المتحدة."
+
+#: .\templates\public\index.html:170
+msgid ""
+"With years of industry experience, our team provides professional guidance, "
+"market expertise, and personalized service to buyers, sellers, investors, "
+"and businesses. From luxury villas and modern apartments to premium "
+"commercial spaces, we help turn property goals into reality."
+msgstr ""
+"بفضل سنوات من الخبرة في القطاع العقاري، يقدم فريقنا التوجيه المهني والخبرة "
+"السوقية والخدمات الشخصية للمشترين والبائعين والمستثمرين والشركات. من الفلل "
+"الفاخرة والشقق العصرية إلى المساحات التجارية المتميزة، نساعدكم على تحويل "
+"أهدافكم العقارية إلى واقع."
+
+#: .\templates\public\index.html:174
+msgid ""
+"At Trustiva, we believe that every property represents more than just an "
+"investment—it represents opportunity, growth, and a place to build the "
+"future. Our commitment to integrity, transparency, and client satisfaction "
+"has helped us establish lasting relationships with homeowners, investors, "
+"and businesses throughout Abu Dhabi."
+msgstr ""
+"في جولدن فيجن، نؤمن بأن كل عقار يمثل أكثر من مجرد استثمار؛ فهو يمثل فرصة "
+"للنمو ومكانًا لبناء المستقبل. وقد ساعدنا التزامنا بالنزاهة والشفافية ورضا "
+"العملاء على بناء علاقات طويلة الأمد مع مالكي العقارات والمستثمرين والشركات "
+"في جميع أنحاء أبوظبي."
+
+#: .\templates\public\index.html:178
+msgid ""
+"Whether you are searching for your dream home, exploring investment "
+"opportunities, or seeking the ideal commercial space, Trustiva delivers "
+"expert support and carefully selected properties tailored to your unique "
+"needs."
+msgstr ""
+"سواء كنتم تبحثون عن منزل أحلامكم، أو تستكشفون فرصًا استثمارية، أو تسعون "
+"للحصول على مساحة تجارية مثالية، تقدم لكم جولدن فيجن دعمًا متخصصًا وعقارات "
+"مختارة بعناية لتلبية احتياجاتكم."
+
+#: .\templates\public\index.html:191
+msgid "Popular Properties"
+msgstr "العقارات الأكثر شعبية"
+
+#: .\templates\public\index.html:200
+msgid "Explore properties"
+msgstr "استكشف العقارات"
+
+#: .\templates\public\index.html:234 .\templates\public\properties.html:60
+#: .\templates\public\properties.html:294
+msgid "Price on request"
+msgstr "السعر عند الطلب"
+
+#: .\templates\public\index.html:246 .\templates\public\properties.html:73
+#: .\templates\public\properties.html:306
+msgid "beds"
+msgstr "غرف نوم"
+
+#: .\templates\public\index.html:250 .\templates\public\properties.html:77
+#: .\templates\public\properties.html:310
+msgid "baths"
+msgstr "حمامات"
+
+#: .\templates\public\index.html:257 .\templates\public\properties.html:81
+#: .\templates\public\properties.html:315
+msgid "See details"
+msgstr "عرض التفاصيل"
+
+#: .\templates\public\index.html:265 .\templates\public\properties.html:88
+msgid "No featured properties are available at the moment."
+msgstr "لا توجد عقارات مميزة متاحة في الوقت الحالي."
+
+#: .\templates\public\index.html:284 .\templates\public\index.html:392
+#: .\templates\public\properties.html:97
+msgid "Prev"
+msgstr "السابق"
+
+#: .\templates\public\index.html:309
+msgid "Our Developer Partners"
+msgstr "شركاؤنا من المطورين العقاريين"
+
+#: .\templates\public\index.html:312
+msgid ""
+"Explore developments from some of the UAE's leading property developers."
+msgstr ""
+"استكشف المشاريع التي يقدمها بعض أبرز المطورين العقاريين في دولة الإمارات "
+"العربية المتحدة."
+
+#: .\templates\public\index.html:387
+msgid "Trusted by Property Buyers & Investors"
+msgstr "موثوق به من قبل مشتري العقارات والمستثمرين"
+
+#: .\templates\public\index.html:418
+msgid "Ahmed Al Mansoori"
+msgstr "أحمد المنصوري"
+
+#: .\templates\public\index.html:421
+msgid ""
+"&ldquo;Trustiva made the entire home-buying process smooth and stress-free.\n"
+"                    Their team understood exactly what we were looking for "
+"and helped us find the\n"
+"                    perfect family villa in Abu Dhabi. Professional, "
+"transparent, and highly\n"
+"                    recommended.&rdquo;"
+msgstr ""
+"&ldquo;جعلت جولدن فيجن تجربة شراء المنزل بأكملها سهلة وخالية من التوتر.\n"
+"                    لقد فهم فريقهم تمامًا ما كنا نبحث عنه وساعدنا في العثور "
+"على\n"
+"                    الفيلا العائلية المثالية في أبوظبي. فريق محترف وشفاف، "
+"ونوصي به بشدة.&rdquo;"
+
+#: .\templates\public\index.html:428
+msgid "Villa Buyer, Abu Dhabi"
+msgstr "مشتري فيلا، أبوظبي"
+
+#: .\templates\public\index.html:446
+msgid "Sarah Williams"
+msgstr "سارة ويليامز"
+
+#: .\templates\public\index.html:449
+msgid ""
+"&ldquo;As an overseas investor, I needed a reliable real estate partner in "
+"the UAE.\n"
+"                    Trustiva provided excellent market insights and guided "
+"me through every\n"
+"                    step of the investment process. Their expertise gave me "
+"complete confidence in\n"
+"                    my decision.&rdquo;"
+msgstr ""
+"&ldquo;بصفتي مستثمرة من خارج الدولة، كنت بحاجة إلى شريك عقاري موثوق في "
+"الإمارات العربية المتحدة.\n"
+"                    قدمت لي جولدن فيجن رؤى ممتازة حول السوق ووجهتني خلال كل\n"
+"                    خطوة من خطوات الاستثمار. وقد منحتني خبرتهم ثقة تامة في\n"
+"                    قراري.&rdquo;"
+
+#: .\templates\public\index.html:455
+msgid "Property Investor"
+msgstr "مستثمر عقاري"
+
+#: .\templates\public\index.html:473
+msgid "Khalid Al Nuaimi"
+msgstr "خالد النعيمي"
+
+#: .\templates\public\index.html:476
+msgid ""
+"&ldquo;The Trustiva team helped us secure the ideal commercial space for "
+"our\n"
+"                    business expansion. Their attention to detail and "
+"understanding of the Abu Dhabi\n"
+"                    market saved us valuable time and resources.&rdquo;"
+msgstr ""
+"&ldquo;ساعدنا فريق جولدن فيجن في الحصول على المساحة التجارية المثالية "
+"لتوسيع\n"
+"                    أعمالنا. وقد وفّر لنا اهتمامهم بالتفاصيل وفهمهم لسوق "
+"أبوظبي\n"
+"                    الكثير من الوقت والموارد الثمينة.&rdquo;"
+
+#: .\templates\public\index.html:481
+msgid "Commercial Property Owner"
+msgstr "مالك عقار تجاري"
+
+#: .\templates\public\index.html:499
+msgid "Maria Fernandez"
+msgstr "ماريا فرنانديز"
+
+#: .\templates\public\index.html:502
+msgid ""
+"&ldquo;From the first viewing to the final paperwork, Trustiva delivered\n"
+"                    exceptional service. The team was responsive, "
+"knowledgeable, and committed to\n"
+"                    finding a property that matched both my needs and "
+"budget.&rdquo;"
+msgstr ""
+"&ldquo;من أول معاينة وحتى إتمام الإجراءات النهائية، قدمت جولدن فيجن\n"
+"                    خدمة استثنائية. كان الفريق متعاونًا وواسع المعرفة "
+"وملتزمًا\n"
+"                    بالعثور على عقار يناسب احتياجاتي وميزانيتي.&rdquo;"
+
+#: .\templates\public\index.html:507
+msgid "Apartment Buyer"
+msgstr "مشتري شقة"
+
+#: .\templates\public\index.html:520
+msgid "Why Choose Trustiva?"
+msgstr "لماذا تختار جولدن فيجن؟"
+
+#: .\templates\public\index.html:523
+msgid ""
+"With years of experience in Abu Dhabi's real estate market, Trustiva\n"
+"              helps buyers, sellers, and investors make confident property "
+"decisions.\n"
+"              Our commitment to transparency, professionalism, and customer "
+"satisfaction\n"
+"              has made us a trusted name in the industry."
+msgstr ""
+"بفضل سنوات من الخبرة في سوق العقارات في أبوظبي، تساعد جولدن فيجن\n"
+"              المشترين والبائعين والمستثمرين على اتخاذ قرارات عقارية بثقة.\n"
+"              وقد جعل التزامنا بالشفافية والاحترافية ورضا العملاء\n"
+"              اسمنا محل ثقة في هذا القطاع."
+
+#: .\templates\public\index.html:542
+msgid "Premium Property Portfolio"
+msgstr "مجموعة عقارية متميزة"
+
+#: .\templates\public\index.html:544
+msgid ""
+"Explore a carefully selected collection of luxury villas, modern "
+"apartments,\n"
+"    and commercial properties across Abu Dhabi and the UAE."
+msgstr ""
+"استكشف مجموعة مختارة بعناية من الفلل الفاخرة والشقق العصرية\n"
+"    والعقارات التجارية في أبوظبي ومختلف أنحاء الإمارات العربية المتحدة."
+
+#: .\templates\public\index.html:555
+msgid "Top Rated Agents"
+msgstr "وكلاء عقاريون الأعلى تقييمًا"
+
+#: .\templates\public\index.html:557
+msgid ""
+"Our team of experienced agents is dedicated to providing personalized "
+"service and expert guidance throughout your real estate journey."
+msgstr ""
+"يكرّس فريقنا من الوكلاء ذوي الخبرة جهوده لتقديم خدمة شخصية وإرشادات متخصصة "
+"طوال رحلتك العقارية."
+
+#: .\templates\public\index.html:567
+msgid "Experienced Property Consultants"
+msgstr "مستشارون عقاريون ذوو خبرة"
+
+#: .\templates\public\index.html:569
+msgid ""
+"Our knowledgeable real estate professionals provide personalized guidance\n"
+"                  and market insights to help you make informed decisions."
+msgstr ""
+"يقدم خبراؤنا العقاريون ذوو المعرفة الواسعة إرشادات شخصية\n"
+"                  ورؤى حول السوق لمساعدتك على اتخاذ قرارات مدروسة."
+
+#: .\templates\public\index.html:586
+msgid "Properties Listed"
+msgstr "العقارات المدرجة"
+
+#: .\templates\public\index.html:622
+msgid "Professional Agents"
+msgstr "الوكلاء المحترفون"
+
+#: .\templates\public\index.html:632
+msgid "Be Part of Our Growing Team"
+msgstr "كن جزءًا من فريقنا المتنامي"
+
+#: .\templates\public\index.html:634
+msgid ""
+"Join Trustiva and help clients discover exceptional real estate "
+"opportunities across Abu Dhabi and the UAE."
+msgstr ""
+"انضم إلى جولدن فيجن وساعد العملاء على اكتشاف فرص عقارية استثنائية في أبوظبي "
+"ومختلف أنحاء الإمارات العربية المتحدة."
+
+#: .\templates\public\index.html:641
+msgid "View Career Opportunities"
+msgstr "استعرض الفرص الوظيفية"
+
+#: .\templates\public\index.html:655
+msgid "Meet Our Experts"
+msgstr "تعرّف على خبرائنا"
+
+#: .\templates\public\index.html:658
+msgid ""
+"Our experienced real estate professionals are committed to helping clients\n"
+"              navigate the UAE property market with confidence. From luxury "
+"residences\n"
+"              to commercial investments, our team provides trusted guidance "
+"every step\n"
+"              of the way."
+msgstr ""
+"يلتزم خبراؤنا العقاريون ذوو الخبرة بمساعدة العملاء\n"
+"              على التعامل مع سوق العقارات في الإمارات العربية المتحدة بثقة. "
+"من المساكن الفاخرة\n"
+"              إلى الاستثمارات التجارية، يقدم فريقنا إرشادات موثوقة في كل "
+"خطوة\n"
+"              من رحلتكم العقارية."
+
+#: .\templates\public\index.html:675
+msgid "Tariq Al-Hashemi"
+msgstr "طارق الهاشمي"
+
+#: .\templates\public\index.html:676
+msgid "Senior Property Consultant"
+msgstr "مستشار عقاري أول"
+
+#: .\templates\public\index.html:678
+msgid ""
+"Specializing in luxury villas and premium residential communities across\n"
+"                  Abu Dhabi, Tariq helps clients find properties that match "
+"their lifestyle\n"
+"                  and investment goals."
+msgstr ""
+"يتخصص طارق في الفلل الفاخرة والمجمعات السكنية المتميزة في\n"
+"                  أبوظبي، ويساعد العملاء على العثور على عقارات تتناسب مع نمط "
+"حياتهم\n"
+"                  وأهدافهم الاستثمارية."
+
+#: .\templates\public\index.html:709
+msgid "Layla Mansoor"
+msgstr "ليلى منصور"
+
+#: .\templates\public\index.html:710
+msgid "Investment Property Advisor"
+msgstr "مستشارة عقارات استثمارية"
+
+#: .\templates\public\index.html:712
+msgid ""
+"With extensive knowledge of the UAE real estate market, Layla "
+"assistsinvestors in identifying high-potential opportunities and long-term "
+"value."
+msgstr ""
+"بفضل معرفتها الواسعة بسوق العقارات في الإمارات العربية المتحدة، تساعد ليلى "
+"المستثمرين على تحديد الفرص الواعدة والاستثمارات ذات القيمة طويلة الأجل."
+
+#: .\templates\public\index.html:741
+msgid "Zaid Al-Maktari"
+msgstr "زيد المكتاري"
+
+#: .\templates\public\index.html:742
+msgid "Commercial Real Estate Specialist"
+msgstr "أخصائي عقارات تجارية"
+
+#: .\templates\public\index.html:744
+msgid ""
+"Zaid works closely with businesses seeking office, retail, and commercial "
+"spaces, delivering tailored property solutions for growth and success."
+msgstr ""
+"يعمل زيد عن كثب مع الشركات التي تبحث عن مكاتب ومساحات للبيع بالتجزئة وعقارات "
+"تجارية، ويقدم حلولًا عقارية مصممة خصيصًا لدعم النمو والنجاح."
+
+#: .\templates\public\login.html:20 .\templates\public\new_password.html:20
+#: .\templates\public\password_reset.html:20
+#: .\templates\public\property_details.html:19
+#: .\templates\public\verify_otp.html:20
+msgid "Breadcrumb"
+msgstr "مسار التنقل"
+
+#: .\templates\public\login.html:44 .\templates\public\new_password.html:41
+#: .\templates\public\password_reset.html:41
+#: .\templates\public\verify_otp.html:41
+msgid "Lock"
+msgstr "قفل"
+
+#: .\templates\public\login.html:46
+msgid "Sign in to access your account"
+msgstr "سجّل الدخول للوصول إلى حسابك"
+
+#: .\templates\public\login.html:59
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: .\templates\public\login.html:60
+msgid "Enter your username*"
+msgstr "أدخل اسم المستخدم*"
+
+#: .\templates\public\login.html:64
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: .\templates\public\login.html:65
+msgid "Enter your password*"
+msgstr "أدخل كلمة المرور*"
+
+#: .\templates\public\login.html:70
+msgid "Forgot Password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: .\templates\public\new_password.html:6
+#: .\templates\public\new_password.html:17
+#: .\templates\public\new_password.html:30
+#: .\templates\public\new_password.html:42
+#: .\templates\public\new_password.html:54
+msgid "New Password"
+msgstr "كلمة المرور"
+
+#: .\templates\public\new_password.html:55
+msgid "Enter your new password*"
+msgstr "أدخل كلمة المرور*"
+
+#: .\templates\public\new_password.html:58
+msgid "Reset Password"
+msgstr "كلمة المرور"
+
+#: .\templates\public\password_reset.html:6
+#: .\templates\public\password_reset.html:17
+#: .\templates\public\password_reset.html:30
+#: .\templates\public\password_reset.html:42
+msgid "Password Reset"
+msgstr "كلمة المرور"
+
+#: .\templates\public\password_reset.html:54
+msgid "Enter your email*"
+msgstr "أدخل اسم المستخدم*"
+
+#: .\templates\public\password_reset.html:57
+msgid "Send OTP"
+msgstr "إرسال رمز التحقق لمرة واحدة"
+
+#: .\templates\public\properties.html:35
+msgid "Featured Properties"
+msgstr "العقارات الأكثر شعبية"
+
+#: .\templates\public\properties.html:111
+msgid "Advanced Property Search"
+msgstr "البحث المتقدم عن العقارات"
+
+#: .\templates\public\properties.html:123
+msgid "Enter area or location"
+msgstr "أدخل المنطقة أو الموقع"
+
+#: .\templates\public\properties.html:129
+msgid "Property Category"
+msgstr "فئة العقار"
+
+#: .\templates\public\properties.html:142
+msgid "Purpose"
+msgstr "الغرض"
+
+#: .\templates\public\properties.html:144
+msgid "Sale or Rent"
+msgstr "بيع أو إيجار"
+
+#: .\templates\public\properties.html:145
+msgid "For Sale"
+msgstr "للبيع"
+
+#: .\templates\public\properties.html:146
+msgid "For Rent"
+msgstr "للإيجار"
+
+#: .\templates\public\properties.html:159
+msgid "Minimum"
+msgstr "الحد الأدنى"
+
+#: .\templates\public\properties.html:173
+msgid "Maximum"
+msgstr "الحد الأقصى"
+
+#: .\templates\public\properties.html:179
+msgid "Minimum Bedrooms"
+msgstr "الحد الأدنى لعدد غرف النوم"
+
+#: .\templates\public\properties.html:181
+msgid "Any"
+msgstr "أي عدد"
+
+#: .\templates\public\properties.html:192
+msgid "Minimum Area (sq. ft.)"
+msgstr "الحد الأدنى للمساحة (قدم مربع)"
+
+#: .\templates\public\properties.html:200
+msgid "Minimum area"
+msgstr "الحد الأدنى للمساحة"
+
+#: .\templates\public\properties.html:210
+msgid "Clear Filters"
+msgstr "مسح عوامل التصفية"
+
+#: .\templates\public\properties.html:223
+msgid "All Properties"
+msgstr "جميع العقارات"
+
+#: .\templates\public\properties.html:237
+msgid "Sort properties by"
+msgstr "ترتيب العقارات حسب"
+
+#: .\templates\public\properties.html:246
+msgid "Newest First"
+msgstr "الأحدث أولاً"
+
+#: .\templates\public\properties.html:250
+msgid "Price: Low to High"
+msgstr "السعر: من الأقل إلى الأعلى"
+
+#: .\templates\public\properties.html:254
+msgid "Price: High to Low"
+msgstr "السعر: من الأعلى إلى الأقل"
+
+#: .\templates\public\properties.html:258
+msgid "Area: Smallest First"
+msgstr "المساحة: الأصغر أولاً"
+
+#: .\templates\public\properties.html:262
+msgid "Area: Largest First"
+msgstr "المساحة: الأكبر أولاً"
+
+#: .\templates\public\properties.html:324
+msgid "No properties available at the moment."
+msgstr "لا توجد عقارات متاحة في الوقت الحالي."
+
+#: .\templates\public\property_details.html:4
+msgid "Property Details"
+msgstr "تفاصيل العقار"
+
+#: .\templates\public\property_details.html:94
+msgid "Our Property Consultant"
+msgstr "مستشارنا العقاري"
+
+#: .\templates\public\property_details.html:102
+msgid "Real Estate Specialist"
+msgstr "أخصائي عقارات"
+
+#: .\templates\public\property_details.html:110
+msgid ""
+"Contact us to learn more about this property and explore similar options."
+msgstr "تواصل معنا لمعرفة المزيد عن هذا العقار واستكشاف خيارات مماثلة."
+
+#: .\templates\public\property_details.html:123
+msgid "Send Enquiry"
+msgstr "إرسال استفسار"
+
+#: .\templates\public\send_property_inquiry.html:7
+#: .\templates\public\send_property_inquiry.html:19
+#: .\templates\public\send_property_inquiry.html:32
+msgid "Send Property Inquiry"
+msgstr "إرسال استفسار عن عقار"
+
+#: .\templates\public\send_property_inquiry.html:22
+msgid "breadcrumb"
+msgstr "مسار التنقل"
+
+#: .\templates\public\send_property_inquiry.html:46
+msgid "Let us know what's in your mind"
+msgstr "أخبرنا بما يدور في ذهنك"
+
+#: .\templates\public\send_property_inquiry.html:50
+msgid ""
+"Please fill out the form below and we will get back to you as soon as "
+"possible."
+msgstr "يرجى ملء النموذج أدناه، وسنتواصل معك في أقرب وقت ممكن."
+
+#: .\templates\public\send_property_inquiry.html:87
+msgid "Subject"
+msgstr "الموضوع"
+
+#: .\templates\public\services.html:44
+msgid "Property Sales"
+msgstr "بيع العقارات"
+
+#: .\templates\public\services.html:47
+msgid ""
+"Helping clients buy and sell residential and commercial properties across "
+"Abu Dhabi and the UAE."
+msgstr ""
+"نساعد العملاء على شراء وبيع العقارات السكنية والتجارية في أبوظبي ومختلف "
+"أنحاء دولة الإمارات العربية المتحدة."
+
+#: .\templates\public\services.html:49 .\templates\public\services.html:59
+#: .\templates\public\services.html:71 .\templates\public\services.html:81
+#: .\templates\public\services.html:94 .\templates\public\services.html:104
+#: .\templates\public\services.html:116 .\templates\public\services.html:126
+msgid "Enquire Now"
+msgstr "استفسر الآن"
+
+#: .\templates\public\services.html:55
+msgid "Property Leasing"
+msgstr "تأجير العقارات"
+
+#: .\templates\public\services.html:57
+msgid ""
+"Find apartments, villas, offices, and retail spaces that suit your "
+"requirements and budget."
+msgstr "اعثر على شقق وفلل ومكاتب ومساحات تجارية تناسب احتياجاتك وميزانيتك."
+
+#: .\templates\public\services.html:66
+msgid "Real Estate Investment"
+msgstr "الاستثمار العقاري"
+
+#: .\templates\public\services.html:69
+msgid ""
+"Expert guidance for investors seeking profitable opportunities in the UAE "
+"property market."
+msgstr ""
+"إرشادات من خبراء للمستثمرين الباحثين عن فرص مربحة في سوق العقارات الإماراتي."
+
+#: .\templates\public\services.html:77
+msgid "Property Management"
+msgstr "إدارة العقارات"
+
+#: .\templates\public\services.html:79
+msgid ""
+"Comprehensive property management solutions designed to maximize value and "
+"efficiency."
+msgstr ""
+"حلول متكاملة لإدارة العقارات تهدف إلى زيادة قيمتها وتحسين كفاءة إدارتها."
+
+#: .\templates\public\services.html:89
+msgid "Commercial Real Estate"
+msgstr "العقارات التجارية"
+
+#: .\templates\public\services.html:92
+msgid ""
+"Professional support for businesses seeking office, retail, and commercial "
+"spaces."
+msgstr ""
+"دعم احترافي للشركات التي تبحث عن مكاتب ومساحات للبيع بالتجزئة ومواقع تجارية."
+
+#: .\templates\public\services.html:100
+msgid "Market Consultation"
+msgstr "الاستشارات العقارية والسوقية"
+
+#: .\templates\public\services.html:102
+msgid ""
+"Receive expert insights, market analysis, and strategic property advice from "
+"our specialists."
+msgstr ""
+"احصل على رؤى الخبراء وتحليلات السوق والنصائح العقارية الاستراتيجية من "
+"متخصصينا."
+
+#: .\templates\public\services.html:111
+msgid "Luxury Property Services"
+msgstr "خدمات العقارات الفاخرة"
+
+#: .\templates\public\services.html:114
+msgid ""
+"Exclusive access to premium villas, waterfront residences, and luxury "
+"developments."
+msgstr ""
+"استمتع بإمكانية الوصول الحصري إلى الفلل الفاخرة والمساكن المطلة على الواجهة "
+"المائية والمشاريع السكنية الراقية."
+
+#: .\templates\public\services.html:122
+msgid "Relocation Assistance"
+msgstr "المساعدة في الانتقال"
+
+#: .\templates\public\services.html:124
+msgid ""
+"Helping families and professionals relocate smoothly with personalized "
+"property solutions."
+msgstr ""
+"نساعد العائلات والمهنيين على الانتقال بسهولة من خلال حلول عقارية مصممة خصيصاً "
+"لتلبية احتياجاتهم."
+
+#: .\templates\public\services.html:138
+msgid "Ready to Find Your Perfect Property?"
+msgstr "هل أنت مستعد للعثور على العقار المثالي لك؟"
+
+#: .\templates\public\services.html:142
+msgid ""
+"Whether you're searching for a luxury villa, a modern apartment, or a "
+"commercial investment opportunity, Trustiva is here to guide you every step "
+"of the way. Our experienced team provides personalized advice, market "
+"expertise, and dedicated support to help you make confident real estate "
+"decisions."
+msgstr ""
+"سواء كنت تبحث عن فيلا فاخرة أو شقة عصرية أو فرصة استثمارية تجارية، فإن جولدن "
+"فيجن هنا لإرشادك في كل خطوة. يقدم فريقنا ذو الخبرة نصائح مخصصة وخبرة واسعة "
+"بالسوق ودعماً متواصلاً لمساعدتك على اتخاذ قرارات عقارية بثقة."
+
+#: .\templates\public\services.html:146
+msgid "Contact Our Experts"
+msgstr "تواصل مع خبرائنا"
+
+#: .\templates\public\verify_otp.html:6 .\templates\public\verify_otp.html:17
+#: .\templates\public\verify_otp.html:30 .\templates\public\verify_otp.html:42
+#: .\templates\public\verify_otp.html:78
+msgid "Verify OTP"
+msgstr "التحقق من رمز التحقق لمرة واحدة"
+
+#: .\templates\public\verify_otp.html:66
+msgid "OTP"
+msgstr "رمز التحقق لمرة واحدة"
+
+#: .\templates\public\verify_otp.html:71
+msgid "Enter the OTP sent to your email"
+msgstr "أدخل رمز التحقق المرسل إلى بريدك الإلكتروني"
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:16
+#| msgid "Send Message"
+msgid "Messages"
+msgstr "إرسال رسالة"
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\contrib\syndication\apps.py:7
+#| msgid "Location"
+msgid "Syndication"
+msgstr "الموقع"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: .\venv\Lib\site-packages\django\core\paginator.py:33
+msgid "…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:35
+msgid "That page number is not an integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:36
+msgid "That page number is less than 1"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\paginator.py:37
+msgid "That page contains no results"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:22
+msgid "Enter a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:70
+msgid "Enter a valid domain name."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:153
+#: .\venv\Lib\site-packages\django\forms\fields.py:775
+msgid "Enter a valid URL."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:200
+msgid "Enter a valid integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:211
+msgid "Enter a valid email address."
+msgstr ""
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: .\venv\Lib\site-packages\django\core\validators.py:289
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:297
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
+"hyphens."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:309
+#: .\venv\Lib\site-packages\django\core\validators.py:318
+#: .\venv\Lib\site-packages\django\core\validators.py:332
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2299
+#, python-format
+msgid "Enter a valid %(protocol)s address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:311
+msgid "IPv4"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:320
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:43
+msgid "IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:334
+msgid "IPv4 or IPv6"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:375
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:381
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:416
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:425
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:434
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:441
+#, python-format
+msgid ""
+"Ensure this value is a multiple of step size %(limit_value)s, starting from "
+"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:473
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:491
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:514
+#: .\venv\Lib\site-packages\django\forms\fields.py:366
+#: .\venv\Lib\site-packages\django\forms\fields.py:405
+msgid "Enter a number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:516
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:521
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:526
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:597
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\core\validators.py:659
+msgid "Null characters are not allowed."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1666
+#: .\venv\Lib\site-packages\django\forms\models.py:933
+msgid "and"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\base.py:1668
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\constraints.py:22
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:94
+msgid "- Select an option -"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:143
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:144
+msgid "This field cannot be null."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:145
+msgid "This field cannot be blank."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:146
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:150
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:187
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1203
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1204
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1206
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1256
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1258
+msgid "String (unlimited)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1367
+msgid "Comma-separated integers"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1468
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1472
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1607
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1476
+msgid "Date (without time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1603
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1611
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
+"[TZ]) but it is an invalid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1616
+msgid "Date (with time)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1743
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1745
+msgid "Decimal number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1947
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1951
+#| msgid "Location"
+msgid "Duration"
+msgstr "الموقع"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:1999
+msgid "Email address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2024
+msgid "File path"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2102
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2104
+msgid "Floating point number"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2144
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2146
+msgid "Integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2242
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2259
+msgid "Small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2267
+msgid "IPv4 address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2298
+msgid "IP address"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2389
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2390
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2392
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2443
+msgid "Positive big integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2458
+msgid "Positive integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2473
+msgid "Positive small integer"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2489
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2525
+msgid "Text"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2605
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2609
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2613
+msgid "Time"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2721
+msgid "URL"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2745
+msgid "Raw binary data"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2748
+#, python-format
+msgid "“%(value)s” is not a valid binary value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2821
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\__init__.py:2823
+msgid "Universally unique identifier"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:247
+msgid "File"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\files.py:423
+msgid "Image"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:26
+#| msgid "Subject"
+msgid "A JSON object"
+msgstr "الموضوع"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\json.py:28
+msgid "Value must be valid JSON."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:991
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:994
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1369
+#| msgid "Long-Term Relationships"
+msgid "One-to-one relationship"
+msgstr "علاقات طويلة الأمد"
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1426
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1428
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\db\models\fields\related.py:1476
+#| msgid "Long-Term Relationships"
+msgid "Many-to-many relationship"
+msgstr "علاقات طويلة الأمد"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to
+#. the label
+#: .\venv\Lib\site-packages\django\forms\boundfield.py:188
+msgid ":?.!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:93
+msgid "This field is required."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:315
+msgid "Enter a whole number."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:486
+#: .\venv\Lib\site-packages\django\forms\fields.py:1246
+msgid "Enter a valid date."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:509
+#: .\venv\Lib\site-packages\django\forms\fields.py:1247
+msgid "Enter a valid time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:536
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:570
+#| msgid "Enter area or location"
+msgid "Enter a valid duration."
+msgstr "أدخل المنطقة أو الموقع"
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:571
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:640
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:641
+msgid "No file was submitted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:642
+msgid "The submitted file is empty."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:644
+#, python-format
+msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:649
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:717
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:864
+#: .\venv\Lib\site-packages\django\forms\fields.py:951
+#: .\venv\Lib\site-packages\django\forms\models.py:1624
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:953
+#: .\venv\Lib\site-packages\django\forms\fields.py:1073
+#: .\venv\Lib\site-packages\django\forms\models.py:1622
+msgid "Enter a list of values."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1074
+msgid "Enter a complete value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1318
+msgid "Enter a valid UUID."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\fields.py:1348
+msgid "Enter a valid JSON."
+msgstr ""
+
+#. Translators: This is the default suffix added to form field labels
+#: .\venv\Lib\site-packages\django\forms\forms.py:97
+msgid ":"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\forms.py:239
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:61
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:65
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:70
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:484
+#: .\venv\Lib\site-packages\django\forms\formsets.py:491
+msgid "Order"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\formsets.py:499
+msgid "Delete"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:926
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:931
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:938
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:947
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1384
+msgid "The inline value did not match the parent instance."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1475
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\models.py:1626
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\utils.py:229
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:573
+msgid "Clear"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:574
+msgid "Currently"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:575
+msgid "Change"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:914
+msgid "Unknown"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:915
+msgid "Yes"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\forms\widgets.py:916
+msgid "No"
+msgstr ""
+
+#. Translators: %s is the name of a model, e.g. "No City matches the
+#. given query."
+#: .\venv\Lib\site-packages\django\shortcuts.py:105
+#: .\venv\Lib\site-packages\django\shortcuts.py:125
+#: .\venv\Lib\site-packages\django\shortcuts.py:149
+#: .\venv\Lib\site-packages\django\shortcuts.py:168
+#, python-format
+msgid "No %s matches the given query."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\tasks\base.py:35
+msgctxt "Task"
+msgid "Ready"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\tasks\base.py:37
+msgctxt "Task"
+msgid "Running"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\tasks\base.py:39
+msgctxt "Task"
+msgid "Failed"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\tasks\base.py:41
+#| msgid "Successful Transactions"
+msgctxt "Task"
+msgid "Successful"
+msgstr "معاملات ناجحة"
+
+#. Translators: Please do not add spaces around commas.
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:879
+msgid "yes,no,maybe"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:909
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:926
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:928
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:930
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:932
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:934
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\template\defaultfilters.py:936
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:74
+msgid "p.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:75
+msgid "a.m."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:80
+msgid "PM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:81
+msgid "AM"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:153
+msgid "midnight"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dateformat.py:155
+msgid "noon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:7
+msgid "Monday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:8
+msgid "Tuesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:9
+msgid "Wednesday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:10
+msgid "Thursday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:11
+msgid "Friday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:12
+msgid "Saturday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:13
+msgid "Sunday"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:16
+msgid "Mon"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:17
+msgid "Tue"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:18
+msgid "Wed"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:19
+msgid "Thu"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:20
+msgid "Fri"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:21
+msgid "Sat"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:22
+msgid "Sun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:25
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:26
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:27
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:28
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:29
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:30
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:31
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:32
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:33
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:34
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:35
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:36
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:39
+msgid "jan"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:40
+msgid "feb"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:41
+msgid "mar"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:42
+msgid "apr"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:43
+msgid "may"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:44
+msgid "jun"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:45
+msgid "jul"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:46
+msgid "aug"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:47
+msgid "sep"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:48
+#| msgid "Contact"
+msgid "oct"
+msgstr "اتصال"
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:49
+msgid "nov"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:50
+msgid "dec"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\ipv6.py:20
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:76
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\text.py:282
+msgid "or"
+msgstr ""
+
+#. Translators: This string is used as a separator between list elements
+#: .\venv\Lib\site-packages\django\utils\text.py:301
+#: .\venv\Lib\site-packages\django\utils\timesince.py:135
+msgid ", "
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\utils\timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:30
+msgid "Forbidden"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:31
+msgid "CSRF verification failed. Request aborted."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:35
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:41
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:46
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
+"including the “Referrer-Policy: no-referrer” header, please remove them. The "
+"CSRF protection requires the “Referer” header to do strict referer checking. "
+"If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:55
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:61
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\csrf.py:67
+msgid "More information is available with DEBUG=True."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:44
+msgid "No year specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:64
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:115
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:214
+msgid "Date out of range"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:94
+msgid "No month specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:147
+msgid "No day specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:194
+msgid "No week specified"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:353
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:384
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:680
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\dates.py:720
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\generic\list.py:173
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:49
+msgid "Directory indexes are not allowed here."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:51
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\static.py:68
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:9
+#: .\venv\Lib\site-packages\django\views\templates\directory_index.html:12
+#, python-format
+msgid "Index of %(directory)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:197
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:199
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:201
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" "
+"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
+"configured any URLs."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:220
+msgid "Django Documentation"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:221
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:229
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:230
+msgid "Get started with Django"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:238
+msgid "Django Community"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:239
+msgid "Connect, get help, or contribute"
+msgstr ""
