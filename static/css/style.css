@@ -9664,23 +9664,45 @@ textarea {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 
+/* 
 .menu-bg-wrap {
   /* background-color: #1C2A3A; */
-  background: linear-gradient(
+  /* background: linear-gradient(
       90deg,
       #ffffff 0%,
       #ffffff 18%,
       #1C2A3A 38%,
       #1C2A3A 100%
-  );
+  ); */
   /* padding: 20px 30px; */
+  /* padding: 20px 30px 20px 3px;
+  position: relative;
+  float: left;
+  width: 100%;
+  border-radius: 7px;
+  -webkit-box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1); }  */
+
+
+.menu-bg-wrap {
+  background: linear-gradient(
+      90deg,
+      #ffffff 0%,
+      #F1F3F6 15%,
+      #D5DDE6 30%,
+      #8B9CAF 48%,
+      #526A82 68%,
+      #1C2A3A 88%,
+      #1C2A3A 100%
+  );
   padding: 20px 30px 20px 3px;
   position: relative;
   float: left;
   width: 100%;
   border-radius: 7px;
   -webkit-box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 15px 30px -15px rgba(0, 0, 0, 0.1);
+}
 
 .hero {
   position: relative;
