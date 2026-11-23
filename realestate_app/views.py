@@ -856,7 +856,7 @@ def export_excel_report(request):
 
     # Title
 
-    worksheet["A1"] = "GOLDEN VISION REAL ESTATE"
+    worksheet["A1"] = "TRUSTIVA REAL ESTATE"
 
     worksheet["A1"].font = Font(
         bold=True,
@@ -1038,7 +1038,7 @@ def export_excel_report(request):
 
     response[
         "Content-Disposition"
-    ] = 'attachment; filename="Golden_Vision_Report.xlsx"'
+    ] = 'attachment; filename="Trustiva_Report.xlsx"'
 
 
     workbook.save(response)
@@ -1090,7 +1090,7 @@ def export_pdf_report(request):
 
     response[
         'Content-Disposition'
-    ] = 'attachment; filename="Golden_Vision_Report.pdf"'
+    ] = 'attachment; filename="Trustiva_Report.pdf"'
 
 
     document = SimpleDocTemplate(
@@ -1146,7 +1146,7 @@ def export_pdf_report(request):
 
     elements.append(
         Paragraph(
-            "GOLDEN VISION REAL ESTATE",
+            "TRUSTIVA REAL ESTATE",
             title_style
         )
     )
@@ -1728,7 +1728,7 @@ def download_property_package(request, id):
     ]
 
     story = [
-        Paragraph("GOLDEN VISION", title_style),
+        Paragraph("TRUSTIVA", title_style),
         Paragraph("Property Details", styles["Heading2"]),
         Spacer(1, 8),
     ]
